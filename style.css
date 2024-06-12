@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+table{
+    max-width: 100%;
+    border: 1px solid;
+ 
+}
+
+td,th{
+    background-color: antiquewhite;
+    padding: 8px;
+    border: 1px solid;
+}
+thead,th{
+    background-color: rgb(189, 113, 13);
+}

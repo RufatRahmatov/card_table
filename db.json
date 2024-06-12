@@ -1,0 +1,23 @@
+{
+    "packages": [
+      {
+        "id": 1512,
+        "packageName": "FREE",
+        "price": "500$",
+        "paymentMethod": "FREE Package"
+      },
+      {
+        "id": 1513,
+        "packageName": "FREE",
+        "price": "499$",
+        "paymentMethod": "FREE Package"
+      },
+      {
+        "id": 1514,
+        "packageName": "FREE",
+        "price": "399$",
+        "paymentMethod": "FREE Package"
+      }
+    ]
+  }
+  
